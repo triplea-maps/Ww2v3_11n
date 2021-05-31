@@ -1,0 +1,6 @@
+map_name: ww2v3_11n
+games:
+- {game_name: WWIIv3 1940 - 11 Nations Mod, file_name: WW2v3-1940-11N.xml}
+- {game_name: WWIIv3 1939 - 11 Nations Mod, file_name: WW2v3-1939-11N.xml}
+- {game_name: WWIIv3 1941 - 11 Nations Mod, file_name: WW2v3-1941-11N.xml}
+- {game_name: WWIIv3 1942 - 11 Nations Mod, file_name: WW2v3-1942-11N.xml}
